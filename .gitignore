@@ -1,0 +1,3 @@
+secrets.py
+*.txt
+__pycache__
